@@ -1,10 +1,7 @@
 streamlit
 pandas
-numpy
 requests
-python-dotenv
 plotly
 matplotlib
-seaborn
+python-dotenv
 wordcloud
-google-api-python-clien

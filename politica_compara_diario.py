@@ -85,7 +85,7 @@ st.set_page_config(
 )
 
 # =========================================================
-# ELEIÇÕES CEARÁ 2026
+# INSTITUO INTELIGÊNCIA DE DADOS (IID)-ELEIÇÕES CEARÁ 2026
 # =========================================================
 CANDIDATOS = {
     "Ciro Gomes": {
@@ -746,7 +746,7 @@ c4.metric(
 st.markdown("---")
 
 # ---------------------------------------------------------
-# GRÁFICO 1 — TERMÔMETRO DE SENTIMENTO
+# IID — TERMÔMETRO DE SENTIMENTO
 # ---------------------------------------------------------
 st.subheader("🌡️ Termômetro médio de sentimento por candidato")
 

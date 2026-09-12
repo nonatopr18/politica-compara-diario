@@ -79,7 +79,7 @@ FONTES_CEARA = {
 }
 
 st.set_page_config(
-    page_title="Eleições Ceará 2026",
+    page_title="Instituto Inteligência de Dados (IID)-Eleições Ceará 2026",
     page_icon="🗳️",
     layout="wide"
 )
@@ -748,7 +748,7 @@ st.markdown("---")
 # ---------------------------------------------------------
 # IID — TERMÔMETRO DE SENTIMENTO
 # ---------------------------------------------------------
-st.subheader("🌡️ Termômetro médio de sentimento por candidato")
+st.subheader("Termômetro médio por candidato-Instituto Inteligência de Dados")
 
 if not df_comentarios.empty:
     df_termometro = df_comentarios.copy()

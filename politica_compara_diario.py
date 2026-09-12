@@ -647,12 +647,12 @@ def carregar_comentarios(
 # =========================================================
 
 st.set_page_config(
-    page_title="Eleições Ceará 2026",
+    page_title="Instituto Inteligência de Dados (IID)-Eleições Ceará 2026",
     page_icon="🗳️",
     layout="wide"
 )
 
-st.title("🗳️ Eleições Ceará 2026")
+st.title("🗳️ Instituto Inteligência de Dados (IID)-Eleições Ceará 2026")
 st.caption(
     "Monitoramento de vídeos de canais e blogs cearenses autorizados pelo sistema."
 )

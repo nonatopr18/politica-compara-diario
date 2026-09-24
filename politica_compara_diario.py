@@ -7,7 +7,7 @@ import pandas as pd
 import requests
 import streamlit as st
 import plotly.express as px
-
+import hmac
 from dotenv import load_dotenv
 # Gerado as Senhas
 ##################### Gerar Senhas
